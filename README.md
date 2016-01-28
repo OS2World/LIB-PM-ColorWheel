@@ -5,7 +5,7 @@ ColorWheel control DLL.
 
 LICENSE
 ===============
-- Non Commercial
+- BSD 3-Clause
 
 COMPILE TOOLS
 ===============
