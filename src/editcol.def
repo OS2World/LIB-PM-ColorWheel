@@ -6,4 +6,3 @@ DATA NONSHARED
 
 EXPORTS
    WinEditColorDlg @1
-

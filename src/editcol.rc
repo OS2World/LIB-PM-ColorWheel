@@ -1,7 +1,7 @@
 #ifndef OS2_INCLUDED
    #include <os2.h>
 #endif
-#include "editcol.h"
+#include <editcol.h>
 
 DLGTEMPLATE DLG_CWHEEL LOADONCALL MOVEABLE DISCARDABLE
 BEGIN
