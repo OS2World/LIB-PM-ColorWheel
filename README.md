@@ -4,6 +4,8 @@ Version 1.2 of the OS/2 PM **ColorWheel** color-picker dialog library by Alessan
 Wraps the undocumented OS/2 `ColorSelectClass` control from `WPCONFIG.DLL` into a
 ready-to-use modal dialog with R/G/B spin buttons.
 
+![ColorWheel ScreenShot](/doc/ColorWheel.png)
+
 ## Features
 
 - Modal "Edit Color" dialog built around the OS/2 Workplace Shell color wheel control
